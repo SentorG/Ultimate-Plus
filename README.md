@@ -1,4 +1,4 @@
-# Ultimate+, by Sentor_G
+# Ultimate Plus, by Sentor_G
 This is a variant of the [Ultimate IronMON](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1#ultimate-ironmon-ruleset) ruleset, created by [iateyourpie](https://www.twitch.tv/iateyourpie). It includes the rules from [Standard](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1#standard-ironmon-ruleset) as well.
 <br><br>
 In Pokémon Platinum, the [smart AI randomiser](https://github.com/PyroMikeGit/SuperKaizoIronMON/blob/main/README.md#smart-ai-rom-patches) is used to apply smart AI to all trainers. For other games, there are [patches](https://github.com/PyroMikeGit/SuperKaizoIronMON?tab=readme-ov-file#smart-ai-rom-patches) to be applied to the ROM in order to make the trainers have smart AI.
