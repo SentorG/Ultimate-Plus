@@ -10,3 +10,4 @@ In Pokémon Platinum, the [smart AI randomiser](https://github.com/PyroMikeGit/S
 | No Legendaries | Legendaries and Mythicals are now unbanned from appearing in the wild. You may use only one "restricted Pokémon" per seed. Legendary Pokémon still have the Slow Growth Rate applied, so are not broken.<br><br>List of restricted Pokémon:<br>**Bird Trio, Dragonite, Mew, Beast Trio, Tyranitar, Celebi, Salamence, Metagross, Legendary Giants, Lati Twins, Jirachi, Garchomp, Lake Trio, Heatran, Cresselia, Phione, Manaphy, Darkrai, Shaymin**. |
 | Catchrates | Throwing a Poké Ball at a Pokémon will always result in a catch. |
 | Smart AI | You must use the aforementioned randomiser (Platinum only) or smart AI patch to apply smart AI to all trainers. |
+| Trainer Items | Added held items (sensible only) to Boss, important and regular trainers. | 
