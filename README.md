@@ -11,3 +11,4 @@ In Pokémon Platinum, the [smart AI randomiser](https://github.com/PyroMikeGit/S
 | Catchrates | Throwing a Poké Ball at a Pokémon will always result in a catch. |
 | Smart AI | You must use the aforementioned randomiser (Platinum only) or smart AI patch to apply smart AI to all trainers. |
 | Trainer Items | Added held items (sensible only) to Boss, important and regular trainers. | 
+| No Flutes | All use of Flutes are banned. |
