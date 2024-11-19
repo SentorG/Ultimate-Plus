@@ -16,9 +16,9 @@ In Pokémon Platinum, the **[smart AI randomiser](https://github.com/PyroMikeGit
 |-|-|
 | Catch or Kill 1 per Route | No wild fainting **at all** if you did not catch something on the Route. |
 | No Legendaries | Legendaries and Mythicals are now unbanned from appearing in the wild. You may use only one "restricted Pokémon" per seed. Legendary Pokémon still have the Slow Growth Rate applied, so are not broken.<br><br>List of restricted Pokémon:<br>**Bird Trio, Dragonite, Mew, Beast Trio, Tyranitar, Celebi, Salamence, Metagross, Legendary Giants, Lati Twins, Jirachi, Garchomp, Lake Trio, Heatran, Cresselia, Phione, Manaphy, Darkrai, Shaymin**. |
-| +1 Boss Pokémon | Boss trainers have one additional Pokémon in their party. |
 | Bad Berries | Must include the "bad berries". |
 | Catchrates | Throwing a Poké Ball at a Pokémon will always result in a catch. |
 | Smart AI | You must use the aforementioned randomiser (Platinum only) or smart AI patch to apply smart AI to all trainers. |
+| +1 Boss Pokémon | Boss trainers have one additional Pokémon in their party. |
 | Trainer Items | Added held items (sensible only) to Boss, important and regular trainers. | 
 | No Flutes | All use of Flutes are banned. |
